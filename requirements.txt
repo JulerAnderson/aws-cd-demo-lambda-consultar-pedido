@@ -1,0 +1,2 @@
+# Solo para scripts/probar_remoto.py; la Lambda y las pruebas locales no requieren dependencias.
+boto3==1.43.105
